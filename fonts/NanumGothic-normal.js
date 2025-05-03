@@ -1,2 +1,0 @@
-
-window.NanumGothicNormal = "BASE64_ENCODED_TTF_FONT_STRING_PLACEHOLDER";
